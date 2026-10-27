@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "CBE Pad Test",
+    "slug": "newpad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "newpad",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.monel.newpad",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#00549A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
