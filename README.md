@@ -1,4 +1,4 @@
-# NewPad — React Native with Play Asset Delivery (PAD)
+# Play Asset Delivery (PAD)
 
 This application demonstrates **Dynamic Bundle & Asset Delivery** using **Google Play Asset Delivery (PAD)** on **React Native (0.88+)** and **Expo (v58)** with the **New Architecture**.
 
